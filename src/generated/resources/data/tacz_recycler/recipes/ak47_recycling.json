@@ -1,0 +1,26 @@
+{
+  "type": "tacz_recycler:recycling",
+  "ingredient": {
+    "item": "tacz:modern_kinetic_gun"
+  },
+  "nbt": {
+    "GunId": "tacz:ak47"
+  },
+  "processingTime": 200,
+  "results": [
+    {
+      "chance": 1.0,
+      "count": 2,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:gunpowder"
+    }
+  ]
+}

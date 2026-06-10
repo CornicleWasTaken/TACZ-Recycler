@@ -1,0 +1,21 @@
+{
+  "type": "tacz_recycler:recycling",
+  "ingredient": {
+    "item": "tacz:attachment"
+  },
+  "nbt": {
+    "AttachmentId": "tacz:acog"
+  },
+  "processingTime": 200,
+  "results": [
+    {
+      "chance": 0.75,
+      "item": "minecraft:glass"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:iron_nugget"
+    }
+  ]
+}

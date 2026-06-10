@@ -1,0 +1,21 @@
+{
+  "type": "tacz_recycler:recycling",
+  "ingredient": {
+    "item": "tacz:modern_kinetic_gun"
+  },
+  "nbt": {
+    "GunId": "tacz:glock_17"
+  },
+  "processingTime": 200,
+  "results": [
+    {
+      "chance": 1.0,
+      "count": 5,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:copper_ingot"
+    }
+  ]
+}

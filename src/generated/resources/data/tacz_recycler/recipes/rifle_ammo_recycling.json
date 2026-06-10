@@ -1,0 +1,20 @@
+{
+  "type": "tacz_recycler:recycling",
+  "ingredient": {
+    "item": "tacz:ammo"
+  },
+  "nbt": {
+    "AmmoId": "tacz_unidict:rifle"
+  },
+  "processingTime": 200,
+  "results": [
+    {
+      "chance": 0.25,
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "chance": 0.35,
+      "item": "minecraft:copper_ingot"
+    }
+  ]
+}

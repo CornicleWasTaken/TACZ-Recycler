@@ -1,0 +1,25 @@
+{
+  "type": "tacz_recycler:recycling",
+  "ingredient": {
+    "item": "tacz:ammo"
+  },
+  "nbt": {
+    "AmmoId": "tacz_unidict:fuel_tank"
+  },
+  "processingTime": 200,
+  "results": [
+    {
+      "chance": 1.0,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "chance": 3.5,
+      "count": 3,
+      "item": "minecraft:redstone"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:blaze_powder"
+    }
+  ]
+}
